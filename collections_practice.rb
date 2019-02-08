@@ -32,6 +32,7 @@ def count_elements(array)
  
  def find_cool(cool)
    
+   
 
    
    
