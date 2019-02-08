@@ -1,7 +1,5 @@
 def begins_with_r(array)
-  array = ["ruby", "rspec", "rails", "sails"]
   array.all? { |word| word[0] == "r" }
-  word[0] = "r"
 end
 
 def contain_a(array)
