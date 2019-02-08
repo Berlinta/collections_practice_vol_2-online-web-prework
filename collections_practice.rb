@@ -28,18 +28,10 @@ def count_elements(array)
  array.group_by(&:itself).map{|k, v| k.merge(count: v.length)}
  end
  
- def merge_data(array)
+ def merge_data(
    
  end
- 
- def find_cool(array)
-   xena =[]
-   array.each do |element|
-     cool << element if element[:temperature] == "cool"
-   end
-   element
- end
-   
+
    
    
    
