@@ -35,7 +35,7 @@ def count_elements(array)
  end
  
  def organize_schools(schools)
-   
+ end
 
    
     #NYC"=>["flatiron school bk", "flatiron school", "general assembly"],
