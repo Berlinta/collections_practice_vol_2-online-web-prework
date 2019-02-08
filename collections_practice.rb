@@ -35,7 +35,7 @@ def count_elements(array)
  end
  
  def organize_schools(schools)
-   new_hash={}
+   new_hash = {}
    schools.each do |school, location|
      new_hash.each do |k, v|
        new_hash[v] || []
