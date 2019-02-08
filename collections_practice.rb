@@ -38,7 +38,7 @@ def count_elements(array)
    new_hash = {}
    schools.each do |school, location|
      new_hash.each do |k, v|
-       new_hash[v] ||=[]
+       new_hash[v] ||= []
        new_hash[v] << school
      end
    end
