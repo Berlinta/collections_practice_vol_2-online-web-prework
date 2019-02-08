@@ -29,6 +29,9 @@ def count_elements(array)
  def merge_data(keys, data)
     data[0].values.map.with_index{|v, i| keys[i].merge(v)}
  end
+ 
+ def find_cool(cool)
+   
 
    
    
