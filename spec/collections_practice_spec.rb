@@ -13,7 +13,7 @@ describe 'collections practice vol 2.' do
     ]
   }
 
-  let(:data) {
+  let(:n2) {
     [
            {
              "blake" => {
