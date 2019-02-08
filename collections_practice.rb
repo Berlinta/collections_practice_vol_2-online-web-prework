@@ -43,8 +43,6 @@ def count_elements(array)
      end
    end
  end
-   
- end
 
    
     #NYC"=>["flatiron school bk", "flatiron school", "general assembly"],
