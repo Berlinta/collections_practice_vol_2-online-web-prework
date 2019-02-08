@@ -2,7 +2,7 @@ require 'spec_helper'
 
 describe 'collections practice vol 2.' do
 
-  let(:keys) {
+  let(:n1) {
     [
            {
             :first_name => "blake"
