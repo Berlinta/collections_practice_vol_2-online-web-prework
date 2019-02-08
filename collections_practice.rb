@@ -42,17 +42,4 @@ def count_elements(array)
        new_hash[v] << school
      end
    end
-   new_hash
  end
-
-   
-    #NYC"=>["flatiron school bk", "flatiron school", "general assembly"],
-     #"SF"=>["dev boot camp", "Hack Reactor"],
-     #"Chicago"=>["dev boot camp chicago"]}
-  
-   
-   
-   
-   
-   
-   
