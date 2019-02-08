@@ -42,4 +42,5 @@ def count_elements(array)
        new_hash[v] << school
      end
    end
+   new_hash
  end
