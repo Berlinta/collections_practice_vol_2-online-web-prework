@@ -33,6 +33,8 @@ def count_elements(array)
  def find_cool(cool)
    cool.select {|word| (word.values).include?("cool")}
  end
+ 
+ def organize_schools(schools)
    
 
    
