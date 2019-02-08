@@ -31,7 +31,7 @@ def count_elements(array)
  end
  
  def find_cool(cool)
-   cool.select { |word| word.include? == "cool" }
+   cool.select { |word| word.include == "cool" }
  end
    
 
